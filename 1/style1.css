@@ -1,0 +1,14 @@
+body{
+  text-align: center;
+  background-color: AntiqueWhite;
+}
+
+.singer{
+  font-weight: bolder;
+  font-style:italic;
+  font-size: 40;
+}
+
+p{
+  line-height: 2;
+}

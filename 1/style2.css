@@ -1,0 +1,19 @@
+body{
+  background-color: LightCyan;
+  text-align: center;
+}
+
+.link{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.singer{
+  font-weight: bolder;
+  font-style: italic;
+  font-size: 20px;
+}
+
+p{
+  line-height: 2;
+}

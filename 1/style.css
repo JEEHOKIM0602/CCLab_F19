@@ -1,0 +1,17 @@
+body{
+  text-align: center;
+  background-color: AntiqueWhite;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 600px;
+}
+.title{
+  font-weight: bolder;
+  font-size: 40px;
+}
+.one{
+  font-weight: bold;
+}
+
+.two{
+  font-weight: bold;
+}
