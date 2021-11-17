@@ -1,0 +1,47 @@
+
+
+
+html, body {
+  background-image:url('https://www.kgnews.co.kr/data/photos/20210939/art_16328908959586_3d07a7.jpg');
+  margin: 0;
+  padding: 0;
+}
+
+h1{
+  text-align: center;
+  font-size: 10;
+  font-style: italic;
+}
+
+canvas {
+  position: absolute;
+  left:100px;
+  top:100px;
+}
+
+.colorChange{
+  position:absolute;
+  right: 100px;
+  top: 100px;
+  background-color: bisque;
+  border-width: 4px;
+  border-style: solid;
+  border-color: black;
+  width:200px;
+  height:100px;
+  padding:10px 0px 10px 60px;
+}
+
+.yesorno{
+  position:fixed;
+  right: 100px;
+  top: 300px;
+  background-color: cornflowerblue;
+  border-width: 2px;
+  border-style: solid;
+  border-color: cornflowerblue;
+  width:150px;
+  height:100px;
+  padding:10px 0px 10px 60px;
+
+}
